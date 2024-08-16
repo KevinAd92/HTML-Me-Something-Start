@@ -1,1 +1,45 @@
 /* Write your CSS here! */
+#mainHeading {
+    font-size: 100px;
+    text-align: center;
+    color: red;
+    background-color: black;
+}
+.funParagraph {
+    color: green;
+}
+h1, h2, h3, h4{
+    font-size: 50px;
+    text-align: center;
+}
+h1 {
+color:blue;
+background-color:yellow;
+}
+ h2 {
+color:white;
+background-color:red ;
+ }
+h3 {
+    color:blue;
+    background-color: red;
+}
+
+h4 {
+    color:gray;
+    background-color:blue ;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  figcaption{
+    text-align: center;
+  }
+
+  p {
+    font-size: 24px;
+  }

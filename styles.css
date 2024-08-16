@@ -1,5 +1,6 @@
 /* Write your CSS here! */
 #mainHeading {
+    font-style: oblique;
     font-size: 100px;
     text-align: center;
     color: red;
@@ -7,6 +8,7 @@
 }
 .funParagraph {
     color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1, h2, h3, h4{
     font-size: 50px;
@@ -28,6 +30,10 @@ h3 {
 h4 {
     color:gray;
     background-color:blue ;
+}
+body{
+    margin: 8x;
+    display: block;
 }
 
 .image {
